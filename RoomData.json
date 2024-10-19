@@ -7,6 +7,7 @@
         "ImageName":"DefaultPFP",
         "Sandbox":true,
         "CreatorPlayerId":1,
+        "ScreenModeSupport":true,
         "Scenes":[
             {
                 "UnitySceneId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
