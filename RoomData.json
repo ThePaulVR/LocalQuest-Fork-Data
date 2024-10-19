@@ -1,0 +1,16 @@
+{
+    "CreationTime":null,
+    "RoomId":1,
+    "Name":"TestRoom",
+    "Description":"testing rooms on LocalQuest",  
+    "ImageName":"DefaultPFP",
+    "Sandbox":true,
+    "CreatorPlayerId":1,
+    "Scenes":[
+        {
+            "UnitySceneId":"",
+            "Name":"silliest",
+            "DataBlob":null
+        }
+    ]
+}
