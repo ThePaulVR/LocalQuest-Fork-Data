@@ -6,7 +6,7 @@
         "Description":"testing rooms on LocalQuest",  
         "ImageName":"DefaultPFP",
         "Sandbox":true,
-        "CreatorPlayerId":87523860,
+        "CreatorPlayerId":1,
         "AllowScreenMode":true,
         "Scenes":[
             {
