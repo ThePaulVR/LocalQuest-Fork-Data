@@ -15,5 +15,22 @@
                 "DataBlob":null
             }
         ]
+    },
+    {
+        "CreationTime":null,
+        "RoomId":2,
+        "Name":"gribblytheater",
+        "Description":"Performance Hall\r\n\r\nFun fact: This is the first ever UGC room! [|=)]",  
+        "ImageName":"DefaultRoomImage",
+        "Sandbox":true,
+        "CreatorPlayerId":1,
+        "AllowScreenMode":true,
+        "Scenes":[
+            {
+                "UnitySceneId":"9932f88f-3929-43a0-a012-a40b5128e346",
+                "Name":"Home",
+                "DataBlob":"Unm-BHhnYUq04YOhhRY8pg"
+            }
+        ]
     }
 ]
