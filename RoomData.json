@@ -21,7 +21,7 @@
         "RoomId":2,
         "Name":"gribblytheater",
         "Description":"Performance Hall\r\n\r\nFun fact: This is the first ever UGC room! [|=)]",  
-        "ImageName":"DefaultRoomImage",
+        "ImageName":"DefaultRoomImageSquare",
         "Sandbox":true,
         "CreatorPlayerId":1,
         "AllowScreenMode":true,
