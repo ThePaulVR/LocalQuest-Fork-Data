@@ -1,0 +1,9 @@
+LocalQuest [BETA] V0.11 - What's new?!
+
+- new in 0.11
+ - fixed the num keys control option (it was impossible to enable it in the previous build, oops!)
+
+- Releasing the server to EpicQuest beta testers!!
+- During the beta, please try playing/modding different game versions!
+- If you find a game version < mid 2018 that doesn't seem to work, please tell me and I'll work on it!
+- Support for more builds coming soon!!
