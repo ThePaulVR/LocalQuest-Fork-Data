@@ -1,0 +1,6 @@
+LocalQuest [BETA] V0.1 - What's new?!
+
+- Releasing the server to EpicQuest beta testers!!
+- During the beta, please try playing/modding different game versions!
+- If you find a game version < mid 2018 that doesn't seem to work, please tell me and I'll work on it!
+- Support for more builds coming soon!!
