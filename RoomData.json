@@ -10,6 +10,7 @@
     "AllowScreenMode": true,
     "Scenes": [
       {
+        "SceneId":1,
         "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
         "Name": "silliest",
         "DataBlob": null
@@ -27,6 +28,7 @@
     "AllowScreenMode": true,
     "Scenes": [
       {
+        "SceneId":1,
         "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
         "Name": "Home",
         "DataBlob": "Unm-BHhnYUq04YOhhRY8pg"
@@ -44,6 +46,7 @@
     "AllowScreenMode": true,
     "Scenes": [
       {
+        "SceneId":1,
         "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
         "Name": "Home",
         "DataBlob": "RoomFile555565706.room"
