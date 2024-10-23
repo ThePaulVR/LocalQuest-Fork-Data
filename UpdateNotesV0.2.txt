@@ -8,3 +8,4 @@ LocalQuest [BETA] V0.2 - What's new?!
 - New in 0.2 [|X3]
  - Support for builds up to around september 2018
  - Custom rooms too new for a build are now hidden from the play menu
+ - Made UI boxes smaller so there aren't gaps on windows 10 / non-"terminal app" cmd
