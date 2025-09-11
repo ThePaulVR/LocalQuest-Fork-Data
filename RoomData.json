@@ -72,4 +72,24 @@
     ]
   }
 ]
+[
+  {
+    "CreationTime": null,
+    "RoomId": 1,
+    "Name": "FunnyHolotars",
+    "Description": "Oof - I'm Japanese btw so that one holotar isn't racist - As Seen On Tydalwavee",
+    "ImageName": "DefaultPFP",
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name": "Home",
+        "DataBlob": "9el2et6d115epo8edc8p634sz.room"
+      }
+    ]
+  },
+  {
 
