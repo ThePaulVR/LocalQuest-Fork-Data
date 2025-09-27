@@ -1,0 +1,75 @@
+[
+  {
+    "CreationTime": null,
+    "RoomId": 1,
+    "Name": "TestRoom",
+    "Description": "testing rooms on LocalQuest",
+    "ImageName": "DefaultPFP",
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name": "silliest",
+        "DataBlob": null
+      }
+    ]
+  },
+  {
+    "CreationTime": null,
+    "RoomId": 2,
+    "Name": "gribblytheater",
+    "Description": "Performance Hall\r\n\r\nFun fact: This is the first ever UGC room! [|=)]",
+    "ImageName": null,
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name": "Home",
+        "DataBlob": "Unm-BHhnYUq04YOhhRY8pg"
+      }
+    ]
+  },
+  {
+    "CreationTime": null,
+    "RoomId": 3,
+    "Name": "splootybean",
+    "Description": "i just lost my dog",
+    "ImageName": null,
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name": "Home",
+        "DataBlob": "RoomFile555565706.room"
+      }
+    ]
+  },
+  {
+   "CreationTime": null,
+    "RoomId": 4,
+    "Name": "HappyBirthdayGabe!",
+    "Description": "Happy 18th Birthday Gabe!",
+    "ImageName": null,
+    "Sandbox": true,
+    "CreatorPlayerId": 1,
+    "AllowScreenMode": true,
+    "Scenes": [
+      {
+        "SceneId":1,
+        "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name": "Home",
+        "DataBlob": "RoomFile355724916.room"
+      }
+    ]
+  }
+]
+
