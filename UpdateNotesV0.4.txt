@@ -1,3 +1,5 @@
 Add a "Give feedback" button to the main menu
 Update Community Board
 Add Some Images 
+
+NOTE: In The Future RecOldLocalHost Will have support for late 2019-2021
