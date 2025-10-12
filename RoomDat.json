@@ -70,6 +70,75 @@
         "DataBlob": "RoomFile355724916.room"
       }
     ]
-  }
-]
+  },
+{
+  RoomId 5
+IsDorm	false
+MaxPlayerCalculationMode	1
+MaxPlayers	10
+CloningAllowed	false
+DisableMicAutoMute	false
+DisableRoomComments	false
+EncryptVoiceChat	false
+ToxmodEnabled	false
+LoadScreenLocked	false
+PersistenceVersion	1
+AutoLocalizeRoom	false
+IsDeveloperOwned	false
+RankedEntityId	""
+Name	"OrderUpBETA"
+Description	"Flip patties, fry potatoes, and cook pizzas for hungry and impatient customers so you can buy, equipment, food, and workers. Thanks for 1k subs"
+ImageName	"RoomImage4ffed8e18ccc438caba34240c99a801e.png"
+WarningMask	0
+CustomWarning	""
+CreatorAccountId	16
+State	0
+Accessibility	1
+SupportsLevelVoting	false
+IsRRO	false
+SupportsScreens	true
+SupportsWalkVR	true
+SupportsTeleportVR	true
+SupportsVRLow	true
+SupportsQuest2	true
+SupportsMobile	true
+SupportsJuniors	true
+MinLevel	0
+CreatedAt	"2024-08-12T11:42:25.3252879"
+Stats	
+CheerCount	5
+FavoriteCount	5
+VisitorCount	0
+VisitCount	44
+RankingContext	0
+SubRooms	
+0	
+SubRoomId	5079
+RoomId	3011
+Name	"Home"
+DataBlob	"RoomData2076171618085589435"
+IsSandbox	false
+MaxPlayers	12
+Accessibility	1
+UnitySceneId	"a75f7547-79eb-47c6-8986-6767abcb4f92"
+SavedByAccountId	16
+Roles	
+0	
+AccountId	3
+Role	20
+InvitedRole	30
+1	
+AccountId	1841
+Role	20
+InvitedRole	30
+2	
+AccountId	16
+Role	255
+InvitedRole	0
+DataBlob	null
+UgcVersion	1
+Tags	[]
+PromoImages	[]
+PromoExternalContent	[]
+LoadScreens	[]
 
